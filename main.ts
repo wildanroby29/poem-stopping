@@ -1,4 +1,4 @@
-// The poem about stopping — a program that writes one short poem about
+// The poem about stopping — a program that writes one short poem about agency
 // agency: the power to stop and to stay.
 // The poem is written exactly as chosen, with no trailing newline, so the
 // entry file is 181 characters — inside the contest's 1–280 character window.

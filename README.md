@@ -1,6 +1,6 @@
 # The poem about stopping
 
-A program that writes a short poem about agency — the power to stop and to stay — for make.fun's "The poem about stopping" bounty ($35 in USDC).
+A program that writes a short poem about agency — the power to stop and to stay — for make.fun's "The poem about stopping" bounty ($35 in USDC), a contest about agency.
 
 Running `node main.ts` writes the poem to `/output/entry.txt`:
 
